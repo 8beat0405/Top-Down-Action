@@ -1,0 +1,188 @@
+
+girl1_small.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair2
+  rotate: false
+  xy: 784, 213
+  size: 319, 249
+  orig: 319, 249
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 1633, 687
+  size: 167, 205
+  orig: 167, 205
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1572, 640
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 464
+  size: 555, 1104
+  orig: 555, 1104
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1840, 669
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+fastner
+  rotate: true
+  xy: 1572, 691
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+front hair
+  rotate: true
+  xy: 784, 32
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1497, 502
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+left arm 1
+  rotate: true
+  xy: 1336, 479
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+left arm2
+  rotate: false
+  xy: 1845, 817
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+left eye
+  rotate: false
+  xy: 1286, 431
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+left eye brow
+  rotate: false
+  xy: 1497, 482
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+mid finger
+  rotate: false
+  xy: 2010, 970
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+pinky
+  rotate: false
+  xy: 2010, 919
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+pocket
+  rotate: true
+  xy: 1207, 419
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+right arm 1
+  rotate: false
+  xy: 1395, 716
+  size: 236, 138
+  orig: 236, 138
+  offset: 0, 0
+  index: -1
+right arm 2
+  rotate: true
+  xy: 1395, 632
+  size: 82, 175
+  orig: 82, 175
+  offset: 0, 0
+  index: -1
+right eye
+  rotate: false
+  xy: 1105, 382
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+right eye brow
+  rotate: false
+  xy: 1336, 632
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+ring finger
+  rotate: true
+  xy: 1286, 462
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 1108, 643
+  size: 285, 211
+  orig: 285, 211
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: false
+  xy: 986, 2
+  size: 132, 209
+  orig: 132, 209
+  offset: 0, 0
+  index: -1
+scarf3
+  rotate: true
+  xy: 1108, 488
+  size: 153, 226
+  orig: 153, 226
+  offset: 0, 0
+  index: -1
+sheath
+  rotate: false
+  xy: 1108, 856
+  size: 735, 163
+  orig: 735, 163
+  offset: 0, 0
+  index: -1
+simitar
+  rotate: false
+  xy: 2, 16
+  size: 780, 446
+  orig: 780, 446
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: true
+  xy: 1108, 413
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
