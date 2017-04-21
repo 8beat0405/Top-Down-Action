@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
 using Spine.Unity;
-using UnityStandardAssets.CrossPlatformInput;
 
 namespace CompleteProject
 {
     public class PlayerMovement : MonoBehaviour
     {
+		[SerializeField]
+		private MovingJoystick _joystick = null;
+
         public float speed = 6f;            // The speed that the player will move at.
 
         Vector3 movement;                   // The vector to store the direction of the player's movement.
@@ -30,10 +32,17 @@ namespace CompleteProject
 		}
 
         void FixedUpdate ()
-        {
+		{
             // Store the input axes.
-            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
-            float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
+//            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
+//            float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
+
+//			Vector3 pos = transform.position;
+
+			float h = _joystick.Position.x * speed;
+			float v = _joystick.Position.y * speed;
+
+//			transform.position = pos;
 
             // Move the player around the scene.
             Move (h, v);
