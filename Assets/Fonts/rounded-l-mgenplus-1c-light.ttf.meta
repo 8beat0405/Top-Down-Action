@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2f9086fbf50f41048150c8b3ff3003b
+timeCreated: 1492786192
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rounded-L Mgen+ 1c
+  fontNames:
+  - Rounded-L Mgen+ 1c
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

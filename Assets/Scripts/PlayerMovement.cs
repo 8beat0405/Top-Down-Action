@@ -34,15 +34,9 @@ namespace CompleteProject
         void FixedUpdate ()
 		{
             // Store the input axes.
-//            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
-//            float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
-
-//			Vector3 pos = transform.position;
 
 			float h = _joystick.Position.x * speed;
 			float v = _joystick.Position.y * speed;
-
-//			transform.position = pos;
 
             // Move the player around the scene.
             Move (h, v);
